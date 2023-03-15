@@ -1,0 +1,26 @@
+Unbuffed,Без усиления
+Buffed,Усиленные
+In Combat,В битве
+Effective DPS,Эффективный DPS
+View Skill Details:,Просмотр сведений о умениях:
+Socket Group:,Группа сокетов:
+Active Skill:,Активное умение:
+Skill Part:,Часть умения:
+Skill Stages:,Стадии умения:
+Active Mines:,Активные мины
+Show Minion Stats:,Показать статистику приспешника:
+Show stats for the minion instead of the player.,Показывать статистику приспешника вместо игрока.
+Minion:,Приспешники:
+Spectre Library:,Библиотека духов:
+Manage Spectres...,Управлять духами...
+Minion Skill:,Навык приспешника:
+Calculation Mode:,Режим расчета:
+This controls the calculation of the stats shown in this tab.,"Это управляет расчетом статистики, показанной на этой вкладке."
+"The stats in the sidebar are always shown in Effective DPS mode, regardless of this setting.","Статистика на боковой панели всегда отображается в режиме эффективного DPS, независимо от этой настройки."
+"Unbuffed: No auras, buffs, or other support skills or effects will apply. This is equivalent to standing in town.","Без усиления: никакие ауры, усиления или другие вспомогательные навыки или эффекты не применяются. Это эквивалентно стоянию в городе."
+"Buffed: Aura and buff skills apply. This is equivalent to standing in your hideout with auras and buffs turned on.","Усиленные: применяются ауры и усиления умений. Это эквивалентно стоянию в убежище с включенными аурами и усилениями."
+"In Combat: Charges and combat buffs such as Onslaught will also apply. This will show your character sheet stats in combat.","В бою: заряды и боевые усиления, такие как Натиск, также будут применяться. Это покажет статистику вашего персонажа в бою."
+"Effective DPS: Curses and enemy properties (such as resistances and status conditions) will also apply. This estimates your true DPS.","Эффективный DPS: Проклятия и свойства врагов (такие как сопротивления и состояния) также будут применяться. Это оценивает ваш истинный DPS."
+Aura and Buff Skills:,Аура и навыки усилений:
+Combat Buffs:,Боевые усиления:
+Curses and Debuffs:,Проклятия и ослабления:

@@ -1,0 +1,109 @@
+You can't deal Physical damage,Вы не можете наносить физический урон
+You can't deal Lightning damage,Вы не можете наносить урон молнией
+You can't deal Cold damage,Вы не можете наносить урон холодом
+You can't deal Fire damage,Вы не можете наносить урон огнём
+You can't deal Chaos damage,Вы не можете наносить урон хаосом
+
+
+{0} to {1} (total damage),{0} до {1} (всего урона)
+
+
+
+
+
+#1308,#1308
+(cost multiplier),(множитель стоимости)
+(base mana cost),(базовая стоимость маны)
+(base life cost),(базовая стоимость здоровья)
+(additional mana cost),(дополнительная стоимость маны)
+(additional life cost),(дополнительная стоимость здоровья)
+(increased/reduced mana cost),(увеличена/уменьшена стоимость маны)
+(increased/reduced life cost),(увеличена/уменьшена стоимость здоровья)
+(more/less mana cost),(больше/меньше стоимость маны)
+(more/less life cost),(больше/меньше стоимость здоровья)
+(total mana cost),(общая стоимость маны)
+(total life cost),(общая стоимость здоровья)
+(attack speed),(скорость атаки)
+(cast speed),(скорость заклинаний)
+
+
+
+
+
+
+
+
+(base),(основа)
+(action speed modifier),(модификатор скорости действия)
+= {0} casts per second,= {0} заклинаний в секунду
+(total modifier),(общий модификатор)
+= {0} seconds per attack,= {0} секунд на атаку
+
+
+Both weapons:,Оба оружия:
+{0} + {1} (skill hits with both weapons at once),{0} + {1} (умений бьёт обоими оружиями одновременно)
+{0} + {1} / {2} (skill alternates weapons),{0} + {1} / {2} (умений чередует оружие)
+
+
+{0} to {1} (base damage from weapon),{0} до {1} (базового урона от оружия)
+x {0} (base damage multiplier),x {0} (базового множителя урона)
++ {0} to {1} (added damage),+ {0} до {1} (добавленного урона)
+x {0} (damage effectiveness),x {0} (эффективного урона)
+
+
+
+
+#1564,#1564
+Enemy level: {0} (can be overridden in the Configuration tab),Уровень противника: {0} (можно переопределить на вкладке "Конфигурация")
+Average enemy evasion: {0},Среднее уклонение противника: {0}
+Approximate hit chance: {0}%,Усреднённый шанс попадания: {0}%
+Accuracy Hit Chance: {0}%,Точный шанс попадания: {0}%
+Enemy Block Chance: {0}%,Шанс блока противником: {0}%
+
+
+
+
+
+
+
+
+
+
+
+
+(40% converted to other damage types),(40% преобразовано в другие типы урона)
+(90% converted to other damage types),(90% преобразовано в другие типы урона)
+(100% converted to other damage types),(100% преобразовано в другие типы урона)
+(% converted to other damage types),(% преобразовано в другие типы урона)
+x {0} (multiplier from {1}% chance to deal triple damage),x {0} (множитель от {1}% шанса нанести тройной урон)
+x {0} (multiplier from {1}% chance to deal double damage),x {0} (множитель от {1}% шанса нанести двойной урон)
+x {0} (effective DPS modifier),x {0} (эффективный модификатор DPS)
+
+Crit confirmation roll:,Подтверждение критического удара:
+
+{0} - {1} (portion of damage from non-crits),{0} - {1} (часть урона от не-критов)
+(portion of damage from crits),(часть урона от критов)
+
+
+{0} (average hit),{0} (среднее попаданий)
+x {0} (chance to hit),x {0} (шанс попаданий)
+{0} (average damage),{0} (средний урон)
+x {0} (hit rate),x {0} (частота попаданий)
+x {0} (attack rate),x {0} (скорость атаки)
+x {0} (cast rate),x {0} (скорость заклинаний)
+
+
+
+#4116,#4116
+
+(base value),(базовое значение)
+(increased effectiveness),(увеличенная эффективность)
+"(number of stacks, can be overridden in the Configuration tab)","(количество стеков, можно переопределить на вкладке «Конфигурация»)"
+(stored damage),(накопленный урон)
+(impale chance),(шанс прокола)
+(impale enemy physical damage reduction),(уменьшение физического урона противника от прокола)
+(impale damage multiplier),(множитель урона от прокола)
+
+#4592,#4592
+
+(average physical hit),(среднее физическое попадание)

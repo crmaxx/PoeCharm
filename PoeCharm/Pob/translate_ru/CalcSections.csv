@@ -1,0 +1,616 @@
+Player modifiers:,Модификаторы игрока:
+Main hand modifiers:,Модификаторы основной руки:
+Off hand modifiers:,Модификаторы ВР:
+Enemy modifiers:,Модификаторы противников:
+Conversions:,Конверсии:
+Tvalue Override (ms):,Tvalue переопределено (мс):
+PvP Multiplier:,PVP множитель:
+Enemy Evasion modifiers:,Модификаторы вражеского уклонения:
+Main Hand:,Основная рука:
+Off Hand:,ВР:
+
+
+
+
+Added Max:,Добавлено Макс:
+Added Min:,Добавлено Мин:
+Total Increased:,Всего увеличино:
+Total More:,Всего больше:
+Effective DPS Mod:,Эффективный DPS мод:
+Skill Hit Damage:,Урон от навыка удара:
+Skill Average Hit:,Средний урон от навыка:
+Skill PvP Average Hit:,Средний урон от навыка в PvP:
+MH Total Increased:,Всего увеличино (ОР):
+MH Total More:,Всего больше (ОР):
+MH Eff. DPS Mod:,Эфф. DPS мод (ОР):
+MH Hit Damage:,Урон от удара (ОР):
+MH Average Hit:,Средний удар (ОР):
+MH PvP Average Hit:,Средний удар в PvP (ОР):
+OH Total Increased:,Всего увеличино (ВР):
+OH Total More:,Всего больше (ВР)
+OH Eff. DPS Mod:,Эфф. DPS мод(ВР):
+OH Hit Damage:,Урон от удара (ВР):
+OH Average Hit:,Средний удар (ВР):
+OH PvP Average Hit:,Средний удар в PvP (ВР):
+Average Damage:,Средний урон:
+Chance to Hit:,Шанс на удар:
+Enemy Block:,Блок у противника:
+PvP Average Dmg:,Средний урон в PvP:
+Skill DPS:,DPS навыка:
+Skill PvP DPS:,DPS навыка в PvP:
+
+
+
+
+Exerting Warcries:,Влияние боевых кличей:
+Effective Impact,Эффективное воздействие
+Avg Dmg Effect,Средний эффект урона
+Uptime,Длительность
+Number of Exerts,Количество попыток
+Max 1-Hit Impact,Макс воздействие за удар
+Seismic Cry:,Сейсмический клич:
+Intimidating Cry:,Устрашающий клич:
+Rallying Cry:,Объединяющий клич:
+Infernal Cry:,Клич преисподни:
+Ancestral Cry:,Клич предков:
+Exerted Attacks:,Проведено атак:
+Fist of War:,Кулак войны:
+
+
+
+
+Skill Damage over Time:,Постепенный урон от умений:
+Total Multiplier:,Общий множитель:
+Damage over Time:,Постепенный урон:
+Skill DoT DPS:,DoT DPS от умений:
+
+
+
+
+Attack/Cast Rate:,Скорость атак/заклинаний:
+MH Inc. Att. Speed:,Ув. скорость атаки(ОР):
+MH More Att. Speed:,Больше скор. атаки(ОР):
+MH Att. per second:,Атак в секунду (ОР):
+OH Inc. Att. Speed:,Ув. скорость атаки(ВР):
+OH More Att. Speed:,Больше скор. атаки(ВР):
+OH Att. per second:,Атак в секунду (ВР):
+Attacks per second:,Атак в секунду:
+Attack time:,Время атаки:
+Inc. Cast Speed:,Ув. скорость заклинаний:
+More Cast Speed:,Больше скор. заклинаний:
+Casts per second:,Заклинаний в секунду:
+Trigger Rate Cap:,Ограничение частоты триггеров:
+Skill Trigger Rate:,Частота срабатывания навыка:
+Adj. Trigger Rate:,Отрег. частота срабатывания:
+Eff. Trigger Rate:,Эфф. частота срабатывания:
+Cast time:,Время заклинания:
+
+
+
+
+Crits:,Криты:
+Inc. Crit Chance:,Увел. шанс крита:
+Crit Chance:,Шанс крита:
+Crit Multiplier:,Множитель крита:
+Crit Effect Mod:,Мод эффекта крита:
+MH Inc. Crit Chance:,Увел. шанс крита(ОР):
+MH Crit Chance:,Шанс крита(ОР):
+MH Crit Multiplier:,Множитель крита(ОР):
+MH Crit Effect Mod:,Мод эффекта крита(ОР):
+OH Inc. Crit Chance:,Увел. шанс крита(ВР):
+OH Crit Chance:,Шанс крита(ВР):
+OH Crit Multiplier:,Множитель крита(ВР):
+OH Crit Effect Mod:,Мод эффекта крита(ВР):
+
+
+
+
+Impale:,Прокол:
+Max Impale Stacks:,Макс стеков прокола:
+Stacks on Enemy:,Проколов на противнике:
+Impale Chance:,Шанс прокола:
+Crit Impale Chance:,Шанс крина прокола:
+Stored Damage:,Сохраненный урон:
+Damage Mod.:,Мод. урона:
+MH Impale Chance:,Шанс прокола(ОР):
+MH Stored Damage:,Сохраненный урон(ОР):
+MH DMG Mod.:,Мод. урона(ОР):
+OH Impale Chance:,Шанс прокола(ВР):
+OH Stored Damage:,Сохраненный урон(ВР):
+OH DMG Mod.:,Мод. урона(ВР):
+Impale DPS:,DPS прокола:
+Impale Damage:,Урон прокола:
+
+
+
+
+Skill type-specific Stats:,Статистика по типу навыка:
+Mana Cost:,Расход маны:
+Mana % Cost:,Расход маны %:
+Mana per second:,Маны в секунду:
+Mana % per second:,% маны в секунду:
+Life Cost:,Расход здоровья:
+Life % Cost:,Расход здоровья %:
+Life per second:,Здоровья в секунду:
+Life % per second:,% здоровья в секунду:
+ES Cost:,Расход энергощита:
+ES per second:,Энергощита в секунду:
+ES % per second:,% энергощита в секунду:
+Rage Cost:,Расход ярости:
+Rage per second:,Ярости в секунду:
+Active Minion Limit:,Лимит активных приспешников:
+Quantity Multiplier:,Множитель количества:
+Skill Cooldown:,Перезарядка навыка:
+Duration Mod:,Мод. длительности:
+Skill Duration:,Длительность навыка:
+Secondary Duration:,Вторичная длительность:
+Aura Duration:,Длительность ауры:
+Reserve Duration:,Продолжительность резервации:
+Uptime:,Время активноти:
+Secondary Uptime:,Вторичное время активноти:
+Aura Uptime:,Время активноти ауры:
+Reserve Uptime:,Время активноти резервации:
+Sustainable Trauma:,Устойчивая травма:
+Projectile Count:,Количество снарядов:
+Pierce Count:,Количество пронзаний:
+Fork Count:,Количество разветвлений:
+Max Chain Count:,Макс количество цепей:
+Proj. Speed Mod:,Мод. скорости снарядов:
+Skill Self Damage:,Самоповреждений от навыка:
+Bounces Count:,Количество отскоков:
+Aura Effect Mod:,Мод эффекта аур:
+Mana Reserve Mod:,Мод резервации маны:
+Life Reserve Mod:,Мод резервации здоровья:
+Curse Effect Mod:,Мод эффекта проклятий:
+Area of Effect Mod:,Мод области эффекта:
+Radius:,Радиус:
+Secondary Radius:,Вторичный радиус:
+Area of Effect modifiers:,Модификаторы области действия:
+Tertiary Radius:,Третичный радиус:
+Weapon Range:,Дальность оружия:
+Attachment Range:,Дальность прикрепления:
+Max Sust. Fuses:,Макс удержанных взрывателей:
+Overlap Chance:,Шанс перекрытия:
+Trap Cooldown:,Перезарядка ловушки:
+Wave Pulse Rate:,Частота пульса волны:
+Pulses Per Trap:,Импульсов на ловушку:
+Small Explosions:,Малых взрывов:
+Avg. Active Traps:,Срд. активных ловушек:
+Super Chance:,Шанс сверхзаряда:
+Normal Hits/Cast:,Нормальных ударов/заклинаний:
+Super Hits/Cast:,сверхзаряженных ударов/заклинаний:
+DPS Multiplier:,Множитель DPS:
+Trap Trigg. Radius:,Радиус срабатывания ловушки:
+Active Trap Limit:,Лимит активных ловушек:
+Trap Throw Rate:,Скорость броска ловушки:
+Trap Throw Time:,Время броска ловушки:
+Seal Gain Rate:,Коэффициент усиления печати:
+Mine Throw Rate:,Скорость броска ловушки:
+Mine Throw Time:,Время броска ловушки:
+Active Mine Limit:,Лимит активных мин:
+Mine Deton. Radius:,Радиус детонации мин:
+Mine Aura Radius:,Радиус ауры мины:
+Totem Place Time:,Время установки тотема:
+Active Totem Limit:,Лимит активных тотемов:
+Totem Life Mod:,Мод здоровья тотема:
+Totem Life:,Здоровья тотема:
+Totem ES:,Энергощит тотема:
+Totem Block Chance:,Шанс блока тотема:
+Totem Armour:,Броня тотема:
+Active Brand Limit:,Лимит активных клейм:
+Totem Fire Res:,Сопр. к огню тотема:
+Totem Cold Res:,Сопр. к холоду тотема:
+Totem Lightning Res:,Сопр. к молнии тотема:
+Totem Chaos Res:,Сопр. к хаосу тотема:
+Corpse Level:,Уровень трупа:
+Corpse Life:,Здоровье трупа:
+Burst Damage:,Взрывной урон:
+
+
+
+
+Accuracy:,Точность:
+MH Accuracy:,Точность(ОснРук):
+MH Chance to Hit:,Шанс ударить(ОснРук):
+OH Accuracy:,Точность(ВР):
+OH Chance to Hit:,Шанс ударить(ВР):
+Effect of Blind:,Эффект ослепления:
+
+
+
+
+Bleed:,Кровотечение:
+Max Bleed Stacks:,Макс стеков кровотечения:
+Stack Potential:,Потенциал стека:
+Chance to Bleed:,Шанс наложить кровотечение:
+MH Eff. DoT Multi:,Эфф. множитель DoT(О):
+OH Eff. DoT Multi:,Эфф. множитель DoT(В):
+MH Source Physical:,Физический источник(Осн):
+OH Source Physical:,Физический источник(Вне):
+Bleed DPS:,DPS кровотечения:
+Bleed Duration:,Длительность кровотечения:
+
+
+
+
+Poison:,Яд:
+Chance to Poison:,Шанс отравить:
+Eff. DoT Multi:,Эфф. множитель DoT:
+Source Physical:,Физический источник:
+Source Lightning:,Источник молнии:
+MH Source Lightning:,Источник молнии(ОР):
+OH Source Lightning:,Источник молнии(ВР):
+Source Cold:,Источник холода:
+MH Source Cold:,Источник холода(ОР):
+OH Source Cold:,Источник холода(ВР):
+Source Fire:,Источник огня:
+MH Source Fire:,Источник огня(ОР):
+OH Source Fire:,Источник огня(ВР):
+Source Chaos:,Источник хаоса:
+MH Source Chaos:,Источник хаоса(ОР):
+OH Source Chaos:,Источник хаоса(ВР):
+Poison DPS:,DPS яда:
+Caustic Ground:,Едкая земля:
+Poison Duration:,Длительность отравления:
+Dmg. per Poison:,Урона за яд:
+Max Poison Stacks:,Макс стеков яда:
+Capped to 1 poison:,Ограничено до 1 яда:
+
+
+
+
+Ignite:,Поджог:
+Max Ignite Stacks:,Макс стеков поджога:
+Chance to Ignite:,Шанс поджечь:
+Ignite DPS:,DPS поджога:
+Burning Ground:,Горящая земля:
+Ignite Duration:,Длительность поджога:
+Dmg. per Ignite:,Урона за поджог:
+
+
+
+
+Decay:,Разложение:
+Decay DPS:,DPS разложения:
+Decay Duration:,Длительность разложения:
+
+
+
+
+Leech & Gain on Hit:,Похищение и получение за удар:
+Life Leech Cap:,Ограничение похищения здоровья:
+Life Leech Rate:,Частота похищения здоровья:
+Totem modifiers:,Модификаторы тотема:
+Life Leech per Hit:,Похищение здоровья за удар:
+Life Gain Rate:,Частота получения здоровья:
+Life Gain per Hit:,Получение здоровья за удар:
+Life Gain on Kill:,Получение здоровья за убийство:
+ES Leech Cap:,Ограничение похищения энергощита:
+ES Leech Rate:,Частота похищения энергощита:
+ES Leech per Hit:,Похищения энергощита за удар:
+ES Gain Rate:,Частота получения энергощита:
+ES Gain per Hit:,Получение энергощита за удар:
+ES Gain on Kill:,Получение энергощита за убийство:
+Mana Leech Cap:,Ограничение похищения маны:
+Mana Leech Rate:,Частота похищения маны:
+Mana Leech per Hit:,Похищение маны за удар:
+Mana Gain Rate:,Частота получения маны:
+Mana Gain per Hit:,Получение маны за удар:
+Mana Gain on Kill:,Получение маны за убийство:
+
+
+
+
+Non-Damaging Ailments:,Не наносящие урон состояния:
+Scorch Effect Mod:,Мод эффекта опаления:
+Chance to Scorch:,Шанс опалить:
+Scorch Duration:,Длительность опаления:
+Maximum Scorch:,Максимальное опаления:
+Current Scorch:,Текущее опаление:
+Configured Scorch:,Опаление (конфиг):
+Guaranteed Scorches:,Гарнтированное опаление:
+Effect of Chill:,Эффект охлаждения:
+Chill Effect Mod:,Мод эффекта охлаждения:
+Chill Duration:,Длительность охлаждения:
+Maximum Chill:,Максимумальное охлаждение:
+Current Chill:,Текущее охлаждение:
+Configured Chill:,Охлаждение (конфиг):
+Guaranteed Chills:,Гарнтированное охлаждение:
+Chance to Freeze:,Шанс заморозить:
+Freeze Duration:,Длительность заморозки:
+Brittle Effect Mod:,Мод эффекта хрупкости:
+Chance to Brittle:,Шанс хрупкости:
+Brittle Duration:,Длительность хрупкости:
+Maximum Brittle:,Максимальная хрупкость:
+Current Brittle:,Текущая хрупкость:
+Configured Brittle:,Хрупкость (конфиг):
+Guaranteed Brittles:,Гарантированная хрупкость:
+Shock Effect Mod:,Мод эффекта шока:
+Chance to Shock:,Шанс шока:
+Shock Duration:,Длительность шока:
+Maximum Shock:,Максимальный шок:
+Current Shock:,Текущий шок:
+Configured Shock:,Шок (конфиг):
+Guaranteed Shocks:,Гарнтированный шок:
+Sap Effect Mod:,Мод эффекта ошеломления:
+Chance to Sap:,Шанс ошеломить:
+Sap Duration:,Длительность ошеломления:
+Maximum Sap:,Максимальное ошеломление:
+Current Sap:,Текущее ошеломление:
+Configured Sap:,Ошеломление (конфиг):
+Guaranteed Saps:,Гарнтированное ошеломление:
+
+
+
+
+Other Effects:,Прочие эффекты:
+Stun Threshold:,Порог оглушения:
+Stun Duration:,Длительность оглушения:
+MH Stun Threshold:,Порог оглушения(ОР):
+MH Stun Duration:,Длительность оглушения(ОР):
+OH Stun Threshold:,Порог оглушениям(ВР):
+OH Stun Duration:,Длительность оглушения(ВР):
+Knockback Chance:,Шанс отбросить:
+Knockback Dist.:,Дист. отбрасывания:
+MH K.B. Chance:,Шанс отбросить(ОР):
+MH K.B. Dist.:,Дист. отбрасывания(ОР):
+OH K.B. Chance:,Шанс отбросить(ВР):
+OH K.B. Dist.:,Дист. отбрасывания(ВР):
+Maximum Rage:,Максимально ярости:
+Rage Regen:,Восполнение ярости:
+Inc. Item Quantity:,Увел. кол-ва предметов:
+Inc. Item Rarity:,Увел. редк. предметов:
+Culling Strike:,Добивание:
+
+
+
+
+Attributes:,Атрибуты:
+Strength:,Сила:
+Dexterity:,Ловкость:
+Intelligence:,Интеллект:
+Omniscience:,Всеведение:
+Str. Required:,Сил. необходимо:
+Dex. Required:,Лов. необходимо:
+Int. Required:,Инт. необходимо:
+Omni. Required:,Всев. необходимо:
+Life:,Здоровье:
+Base from Gear:,Базовое из снаряжения:
+Inc. from Tree:,Увел. из дерева:
+Total Base:,Всего багового:
+Total:,Всего:
+Reserved:,Зарезервировано:
+Unreserved:,Незарезервировано:
+Total Recoverable:,Всего востановимо:
+Recharge Rate:,Скороть перезарядки:
+Recharge Delay:,Задержка перезарядки:
+Increased Regen:,Увеличенное регенерации:
+Regen:,Регенерация:
+Sources:,Источники:
+Increased Life Regeneration Rate:,Увеличенная скорость регенерации здоровья:
+More Life Regeneration Rate:,Больше скорости регенерации здоровья:
+Recovery modifiers:,Модификаторы восcтановления:
+Recoup:,Восполнение:
+FasterRecoup:,Восполнение быстрее:
+Phys Recoup:,Физ. восполнение:
+Light Recoup:,Молн. восполнение:
+Cold Recoup:,Хол. восполнение:
+Fire Recoup:,Огн. восполнение:
+Chaos Recoup:,Хаос восполнение:
+
+
+
+
+Mana:,Мана:
+Increased Mana Regeneration Rate:,Повышенная скорость регенерации маны:
+More Mana Regeneration Rate:,Больше скорости регенерации маны:
+
+
+
+
+Energy Shield:,Энергощит:
+Base from Armours:,Базовое из Брони:
+Global Base:,Глобальное базовое:
+Increased EnergyShield Regeneration Rate:,Повышенная скорость регенерации энергощита:
+More EnergyShield Regeneration Rate:,Больше скорости регенерации энергощита:
+Ele Recoup:,Элем. восполнение:
+
+
+
+
+Ward:,Барьер:
+
+
+
+
+Rage:,Ярость:
+Increased Rage Regeneration Rate:,Повышенная скорость регенерации ярости:
+More Rage Regeneration Rate:,Больше скорости регенерации ярости:
+
+
+
+
+Armour:,Броня:
+Armour Defense:,Защиты из брони:
+Phys. Dmg. Reduct:,Снижение физ. урона:
+Fire Dmg. Reduct:,Снижение огн. урона:
+Cold Dmg. Reduct:,Снижение урона хол.:
+Light. Dmg. Reduct:,Снижение урона молн.:
+
+
+
+
+Evasion:,Уклонение:
+Evade Chance:,Шанс уклониться:
+Melee Evade Ch.:,Шанс укл. в ближнем бою:
+Proj. Evade Ch.:,Шанс укл. от снаряда:
+
+
+
+
+Resists:,Сопр:
+Fire Resist:,Сопр огню:
+Cold Resist:,Сопр холоду:
+Lightning Resist:,Сопр молнии:
+Chaos Resist:,Сопр хаосу:
+
+
+
+
+Block:,Блок:
+Block Chance:,Шанс блока:
+Spell Block Chance:,Шанс блока чар:
+Taken From Block:,Взято из блока:
+Gain on Block:,Получено при блоке:
+Life on Block:,Здоровья при блоке:
+Mana on Block:,Маны при блоке:
+ES on Block:,Энергощита при блоке:
+ES on Spell Block:,Энергощита при блоке чар:
+
+
+
+
+Other Defences:,Прочие защиты:
+Movement Speed:,Скорость передвижения:
+Effect of Elusive:,Эффект неуловимости:
+Light Radius Mod:,Мод радиус света:
+Curse Effect on You:,Эффект проклятий на тебе:
+Debuff Dur. Mult.:,Множ. длит. ослабления:
+Stun Duration:,Длительность оглушения:
+Stun Avoid Chance:,Шанс избежать оглушения:
+Stun Chance:,Шанс оглушить:
+Interupt Avoid Ch.:,Шанс избежать прерывания:
+Block Stun Duration:,Длительность оглушения блока:
+
+
+
+
+Damage Avoidance:,Предотвращение повреждений:
+Avoid All Dmg Ch.:,Шанс узбежать любого повреждения:
+Avoid Physical Ch.:,Шанс избежать физ:
+Avoid Lightning Ch.:,Шанс избежать молн:
+Avoid Cold Chance:,Шанс избежать хол:
+Avoid Fire Chance:,Шанс избежать огн:
+Avoid Chaos Chance:,Шанс избежать хаос:
+Avoid Proj Ch.:,Шанс избежать снаряда:
+
+
+
+
+Other Avoidance:,Прочие предотвращения:
+Blind Avoid Ch.:,Шанс избежать ослепленя:
+Shock Avoid Ch.:,Шанс избежать шока:
+Freeze Avoid Ch.:,Шанс избежать заморозки:
+Chill Avoid Ch.:,Шанс избежать охлаждения:
+Ignite Avoid Ch.:,Шанс избежать поджога:
+Sap Avoid Ch.:,Шанс избежать ошеломления:
+Brittle Avoid Ch.:,Шанс избежать хрупкости:
+Scorch Avoid Ch.:,Шанс избежать опаления:
+Bleed Avoid Ch.:,Шанс избежать кровотечения:
+Poison Avoid Ch.:,Шанс избежать отравления:
+Crit Reduction:,Снижение критов:
+Blind Duration:,Длительность ослепленя:
+
+
+
+
+Other Ailment Defences:,Защита от других состояний:
+Freeze Duration:,Длительность заморозки:
+Chill Duration:,Длительность охлаждения:
+Shock Duration:,Длительность шока:
+Ignite Duration:,Длительность поджога:
+Sap Duration:,Длительность ошеломления:
+Brittle Duration:,Длительность хрупкости:
+Scorch Duration:,Длительность опаления:
+Bleed Duration:,Длительность кровотечения:
+Poison Duration:,Длительность отравления:
+Freeze Effect:,Эффект заморозки:
+Chill Effect:,Эффект охлаждение:
+Shock Effect:,Эффект шока:
+Ignite Effect:,Эффект поджога:
+Sap Effect:,Эффект ошеломления:
+Brittle Effect:,Эффект хрупкости:
+Scorch Effect:,Эффект опаления:
+Bleed Effect:,Эффект кровотечения:
+Poison Effect:,Эффект отравления:
+
+
+
+
+Dodge:,Уворот:
+Dodge Chance:,Шанс увернуться:
+Spell Ddg. Chance:,Шанс увернуться (чары):
+
+
+
+
+Spell Suppression:,Подавление чар:
+Suppression Ch.:,Шанс подавить:
+Suppression Effect:,Эффект подавления:
+ES on Suppression:,Энергощита при подавлении:
+Life on Suppression:,Здоровья при подавлении:
+
+
+
+
+Damage Taken:,Урона получено:
+Enemy Damage:,Урон противника:
+Taken As:,Получено как:
+
+
+
+
+Damaging Hits:,Урон от удара:
+Hit taken Mult.:,Множ. к урону от удара:
+Reflect taken:,Получено отраженного урона:
+Hit taken:,Получно урона от удара:
+PvP Hit taken:,Получено урона от удара в PvP:
+Enemy PvP Multiplier:,Множитель противка в PvP:
+ES Bypass %:,Проник. энергощита %:
+Prevented Life Loss:,Предотвращенная потеря жизни:
+Mind over Matter %:,Разум превыше материей:
+Guard:,Стража:
+Aegis:,Эгида:
+Frost Shield:,Морозный щит:
+Hits before death:,Ударов до смерти:
+
+
+
+
+"Effective ""Health"" Pool:",Эффективное здоровье:
+Unmitigated %:,Абсолютное:
+Mitigated hits:,Смягченные попадания:
+Enemy miss chance:,Шанс промаха врага:
+Effective Hit Pool:,Эффективное здоровье:
+Time before death:,Время до смерти:
+
+
+
+
+Maximum Hit Taken:,Максимальное количество попаданий:
+
+
+
+
+Dots and Degens:,DoTы и дегены:
+DoT taken:,Полученный DoT:
+Total Pool:,Общее здоровье:
+Effective DoT Pool:,Эффективный здоровье при DoT:
+Degens:,Дегены:
+Total Degen:,Общая дегенерация:
+Total Net Regen:,Общая чистая регенерация:
+Net Life Regen:,Чистая регенерация здоровья:
+Net Mana Regen:,Чистая регенерация маны:
+Net ES Regen:,Чистая регенерация энергощита:
+Net Energy Shield Regen:,Чистая регенерация энергощита:
+
+
+
+
+Recoup and Hit Taken Over Time:,Восстановление и получение ударов со временем:
+Recoup Max.:,Восстановление макс.:
+Recoup Avg.:,Восстановление сред.:
+Hit Over Time Max.:,Ударов со временем макс.:
+Hit Over Time Avg.:,Ударов со временем сред.:
+Net Max.:,Чистая макс.:
+Net Avg.:,Чистая сред.:

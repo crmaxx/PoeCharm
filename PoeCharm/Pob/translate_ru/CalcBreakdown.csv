@@ -1,0 +1,18 @@
+Enemy physical damage reduction: {0}%,Снижение физического урона противника: {0}%
+(physical damage reduction),(снижение физического урона)
+{0} (effective DPS modifier),{0} (эффективный модификатор DPS)
+Effective resistance:,Эффективное сопротивление:
+(resistance),(сопротивление)
+(penetration),(проникновение)
+(resistance ignored),(сопротивление игнорируется)
+Effective DPS modifier:,Эффективный модификатор DPS:
+(increased/reduced damage taken),(увеличенный/уменьшенный получаемый урон)
+(more/less damage taken),(больше/меньше получаемого урона)
+(base damage per second),(базовый урон в секунду)
+x {0} (increased/reduced),x {0} (увеличенный/уменьшенный)
+x {0} (more/less),x {0} (больше/меньше)
+(multiplier),(множитель)
+(rate modifier),(модификатор скорости)
+(aura effect modifier),(модификатор эффекта ауры)
+Condition,Состояние
+Low Life,Низкий уровень здоровья

@@ -1,2 +1,2 @@
 # PoeCharm
-Path of Building Chinese version
+Path of Building Russian version

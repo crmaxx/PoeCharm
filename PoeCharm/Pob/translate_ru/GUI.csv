@@ -1,0 +1,504 @@
+"Current build","Текущая сборка"
+"<< Back","<< Назад"
+"<No active skills>",<Нет активных умений>
+About,О программе
+"Update Ready",Обновление готово
+"Save Changes",Сохранить изменения
+"This build has unsaved changes.","Есть несохранённые изменения."
+"Do you want to save them now?",Хотите сохранить сейчас?
+"Don't Save",Не сохранено
+"Build Sharing","Поделиться сборкой"
+"Note: this code can be very long; you can use 'Share with Pastebin' to shrink it.","Примечание: этот код может быть очень длинным; вы можете использовать 'Поделиться через Pastebin', чтобы уменьшить его."
+Calcs,Расчёты
+"Character Import",Импортировать персонажа
+"Character import status: Idle","Статус импорта: Ожидание"
+"Character import status: Account name is incorrect.","Статус импорта: Некорректное имя аккаунта"
+"Character import status: Account profile is private.","Статус импорта: Приватный аккаунт"
+"Note: if the account name contains non-ASCII characters then it must be URL encoded first.","Примечание. Если имя учетной записи содержит символы, отличные от ASCII, то оно должно быть предварительно закодировано в URL-адресе."
+"Choose character to import data from:",Выберете персонажа для импорта:
+All,Все
+"Character import status: Retrieving character list...","Статус импорта: Получение списка персонажей..."
+"Tip: After you finish importing a character, make sure you update the bandit choices,","Совет: после того, как вы закончите импортировать персонажа, обязательно обновите выбор бандитов,"
+"as these cannot be imported.","так как они не могут быть импортированы."
+"Character import status: Character list successfully retrieved.","Статус импорта: Список персонажей успешно получен."
+"Character import status: Retrieving character items...","Статус импорта: Получение предметов персонажа..."
+"Character import status: Items and skills successfully imported.","Статус импорта: Предметы и навыки успешно импортированы."
+"Character import status: Retrieving character passive tree...","Статус импорта: Получение дерева пассивных навыков персонажа..."
+"Character import status: Passive tree and jewels successfully imported.","Статус импорта: Дерево пассивных навыков и самоцветы успешно импортированы."
+"Passive Tree and Jewels",Дерево пассивных навыков и самоцветы
+"Delete jewels:",Удалить самоцветы:
+"Delete all existing jewels when importing.",Удалить все существующие самоцветы при импорте.
+"Items and Skills",Предметы и умения
+League:,Лига:
+"Delete equipment:",Удалить снаряжение:
+"Delete all equipped items when importing.",Удалить все снаряженные предметы при импорте.
+"Delete skills:",Удалить умения:
+"Delete all existing skills when importing.",Удалить все существующие умения при импорте.
+"Importing the passive tree will overwrite your current tree.",Импорт дерева пассивных навыков перезапишет ваше текущее дерево.
+"Check for Update",Проверить обновления
+Checking...,Проверяю...
+"Update check failed!",Проверка обновления провалена!
+"Couldn't download version manifest.",Не могу скачать манифест версии.
+"Reason: Timeout was reached","Причина: Превышено время ожидания"
+"Check your internet connectivity.",Проверьте подключение к Интернету.
+Dismiss,Отмена
+"If you are using a proxy, specify it in Options.","Если вы используете прокси, укажите его в Настройках."
+Configuration,Конфигурация
+Copy,Копия
+
+
+
+Default,По-умолчанию
+Delete,Удалить
+"Delete All",Удалить всё
+Enabled:,Включено:
+Enable,Включить
+"Experience multiplier:",Множитель опыта:
+"Gem Options",Настройки камней
+General,Основное
+Generate,Сгенерировать
+Import,Импортировать
+Import:,Импортировать:
+Set Name,Выбор имени
+"Enter name for this passive tree:",Введите название для этого дерева пассивных навыков:
+"Import from Pastebin...","Импортировать из Pastebin..."
+"Import to this build","Импортировать в эту сборку"
+"Import/Export Build","Импорт/экспор сборки"
+Items,Предметы
+New,Новый
+"New Folder",Новая папка
+No,Нет
+None,Не выбрано
+Open,Открыть
+Options,Настройки
+Rename,Переименовать
+Save,Сохранить
+"Save As",Сохранить как
+"Share with Pastebin","Поделится через Pastebin"
+Skills,Умения
+Sort,Сортировка
+"Sort by Name",Сортировка по Имени
+"Sort by name",Сортировка по имени
+"Sort by DPS",Сортировка по DLS
+"Sort gems by DPS:",Сортировка камней по DPS:
+Level:,Уровень:
+"Required level: {0}","Требуется уровень: {0}"
+Quality:,Качество:
+"Default gem level:",Уровень камня по-умолчанию:
+"Default gem quality:",Качество камня по-умолчанию:
+"Socketed in:",Вставлено в:
+Start,Начать
+Tree,Дерево
+
+"All Types:",Все типы:
+
+
+
+
+
+"Game Version:",Версия игры:
+"Gem name:",Название камня:
+"Generate a code to share this build with other Path of Building users:","Создайте код, чтобы поделиться этой сборкой с другими пользователями Path of Building:"
+Label:,Метка:
+Player:,Игрок:
+Search:,Поиск:
+
+"Skill Options",Настройки умений
+"Socket Groups:",Группы сокетов:
+
+
+"Tip: You can copy/paste socket groups using Ctrl+C and Ctrl+V.","Совет: Вы можете копировать/вставлять группы сокетов, используя Ctrl+C и Ctrl+V."
+"To import a build, enter the code here:","Чтобы импортировать сборку, введите код здесь:"
+"To start importing a character, enter the character's account name:","Чтобы начать импорт персонажа, введите имя учетной записи персонажа:"
+"Weapon 1:",Оружие 1:
+"Weapon 2:",Оружие 2:
+Witch,Ведьма
+Templar,Жрец
+Scion,Дворянка
+Shadow,Бандит
+Marauder,Дикарь
+Ranger,Охотница
+Duelist,Дуэлянт
+Normal,Обычные
+Magic,Магические
+Rare,Редкие
+Unique,Уникальные
+Relic,Реликт
+"Unique (Relic)",Уникальные (Реликт)
+"Weapon 1",Оружие 1
+"Weapon 2",Оружие 2
+Boots,Ботинки
+Gloves,Перчатки
+Helmet,Шлем
+"Body Armour",Нательная броня
+Quiver,Колчан
+Amulet,Амелет
+Belt,Пояс
+Gem,Камень
+"Abyss Jewel",Самоцвет Бездны
+Jewel,Самоцвет
+Flask,Флакон
+Rarity:,Редкость:
+Name:,Название:
+Type:,Тип:
+Base:,База:
+Create,Создать
+Cancel,Отмена
+Done,Готово
+Close,Закрыть
+Bandit:,Бандиты:
+"{0} Passive Points","{0} очков пассивных навыков"
+"Oak (Life Regen, Phys.Dmg. Reduction, Phys.Dmg)","Дуб (Реген здоровья,уменьшение физ.урона,физ.урон)"
+"Kraityn (Attack/Cast Speed, Attack Dodge, Move Speed)","Крайтин (Скорость атаки/заклинаний,уклонение от атак,скорость передвижения)"
+"Alira (Mana Regen, Crit Multiplier, Resists)","Алира (Реген маны,Множитель крит,сопротивления)"
+"Main Skill:",Основное умение:
+"Shaper Item",Предмет Создателя
+"Elder Item",Предмет Древнего
+Corrupted,Осквернённый
+Craft,Мастер
+Crafted,Мастер
+Crafted:,Мастер:
+Enchant,Зачарование
+Enchanted,Зачаровано
+Mirrored,Отражено
+
+
+Source:,Источник:
+Modifier:,Модификатор:
+"Crafting Bench",Верстак
+Essence,Эссенция
+Prefix,Префикс
+Suffix,Суффикс
+Custom,Пользовательский
+explicit,явное
+implicit,собственное
+
+Names,Названия
+Modifiers,Модификаторы
+Jewellery,Драгоценности
+"One Handed Melee","Одноручное оружие"
+"Two Handed Melee","Двуручное оружие"
+Claw,Коготь
+Dagger,Кинжал
+"Two Handed Axe","Двуручный топор"
+"Two Handed Mace","Двуручная булава"
+"Two Handed Sword","Двуручный меч"
+"One Handed Axe","Одноручный топор"
+"One Handed Mace","Одноручная булава"
+"One Handed Sword","Одноручный меч"
+Sceptre,Скипетр
+Staff,Посох
+"Thrusting One Handed Sword",Пронзающий одноручный меч
+Wand,Жезл
+"No league","Нет лиги"
+Abyss,Бездна
+Bestiary,Бестиарий
+Betrayal,Предательство
+Beyond,Иномирье
+Bloodlines,Родословные
+Breach,Разлом
+Delve,Спуск
+Harbinger,Предвестник
+Incursion,Вмешательство
+Legion,Легион
+Perandus,Перандус
+Synthesis,Синтез
+Talisman,Талисманы
+"Talisman Hardcore",Талисманы (HC)
+"Talisman Standard",Талисманы (Стандарт)
+Warbands,Отряды
+Current,Текущий
+"Pre {0}","До {0}"
+
+
+Enchantment:,Зачарование:
+Eternal,Вечный
+Merciless,Беспощадный
+
+Labyrinth:,Лабиринт:
+
+"Corrupt Item","Осквернить предмет"
+"Implicit {0}","Собственное {0}"
+Corrupt,Осквернение
+
+
+
+Remove,Удалить
+
+"Ring 1","Кольцо 1"
+"Ring 2","Кольцо 2"
+"Weapon 1 (Swap)","Оружие 1 (Смена)"
+"Weapon 2 (Swap)","Оружие 2 (Смена)"
+Standard,Стандарт
+"Requires Level {0}","Необходимий уровень {0}"
+
+
+
+
+
+Helmet:,Шлем:
+"Body Armour:",Нательная броня:
+Gloves:,Перчатки:
+Boots:,Ботинки:
+Amulet:,Амулет:
+Belt:,Пояс:
+"Ring {0}","Кольцо {0}"
+"Flask {0}","Флакон {0}"
+"Socket {0}","Сокет {0}"
+"{0} Dex","{0} Лов"
+"{0} Int","{0} Инт"
+"{0} Str","{0} Сил"
+
+
+
+"Active Skill {0}","Активное умение {0}"
+"Active Skill {0} Main Minion Skill:","Основное умение приспешника (активное умение {0}):"
+"Unallocating this node will give you:",Удаление этого узла даст вам:
+"Allocating this node will give you:",Добавление этого узла даст вам:
+"Unallocating this node and all nodes depending on it will give you:","Удаление этого узла и всех узлов, зависящих от него, даст вам:"
+"Allocating this node and all nodes leading to it will give you:",Добавление этого узла и всех ведущих к нему узлов даст вам:
+"Manage Spectres...",Управление призраками...
+"Available Spectres:",Доступные призраки:
+"Spectre Library",Библиотека призраков
+Add,Добавить
+"<No spectres in build>","<Нет призраков в сборке>"
+"Spectres in Build:","Призраки в сборке:"
+Resistance:,Сопротивление:
+"Active Minion Limit:",Лимит активных приспешников:
+"Average Hit:",Среднее за удар:
+"Average Damage:",Средний урон:
+"Attack Rate:",Скорость атаки:
+"Cast Rate:",Скорость заклинаний:
+"Hit Rate:",Частота попаданий:
+"Trap Throwing Time:",Время броска ловушки:
+"Trap Cooldown:",Перезарядка ловушки:
+"Totem Placement Time:",Время размещения тотема:
+"Crit Chance:",Шанс крита:
+"Effective Crit Chance:",Эффективный шанс крита:
+"Effective Crit Chance",Эффективный шанс крита
+"Crit Multiplier:",Множитель крита:
+"Hit Chance:",Шанс удара:
+Hit DPS:,DPS ударов:
+"Total DPS:","Всего DPS:"
+"DoT DPS:","Постепенный DPS:"
+"Bleed DPS:","DPS от кровотечения:"
+"Total Damage per Ignite:",Всего урона за поджог:
+"Total DPS inc. Ignite:","Всего DPS с поджогом"
+"Average Dmg. inc. Ignite:","Средний урон включая поджог"
+"Poison DPS:","DPS от отравления:"
+"Total Damage per Poison:","Всего урона за отравление"
+"Total DPS inc. Poison:","Всего DPS с отравлением"
+"Average Dmg. inc. Poison:","Средний урон включая поджог"
+
+"Total DoT DPS:","Всего DPS от постепенного:"
+"Impale Damage:","Урон от прокола:"
+"Damage inc. Impale:","Урон, включая прокол:"
+"Impale DPS:","DPS от прокола:"
+"Total DPS inc. Impale:","Всего DPS с проколом:"
+"Total Mirage DPS:","Всего DPS с Миражом:"
+"Culling DPS:","DPS добивания:"
+"Combined DPS:","Комбинированный DPS:"
+"Combined Total Damage:","Комбинированный полный урон:"
+"Skill Cooldown:",Перезарядка умения:
+Seal Gain Frequency:,Частота усиления печати:
+Max Number of Seals:,Макс число печатей:
+Time to Gain Max Seals:,Время на получение макс. количества печатей:
+"AoE Radius:","Радиус области:"
+"Mana Cost:",Расход маны:
+Mana Cost per second:,Расход маны за секунду:
+"Life Cost:",Расход здоровья:
+"Energy Shield Cost:",Расход энергощита:
+"Rage Cost:",Расход ярости:
+Strength:,Сила:
+"Strength Required:",Силы необходимо:
+Dexterity:,Ловкость:
+"Dexterity Required:",Ловкости необходимо:
+Intelligence:,Интеллект:
+"Intelligence Required:",Интеллекта необходимо:
+"Omniscience:",Всезнание:
+"Omniscience Required:",Всезнания необходимо:
+
+Phys Max Hit:,Физический макс. удар:
+Elemental Max Hit:,Стихийный макс. удар:
+Fire Max Hit:,Макс. удар огнём:
+Cold Max Hit:,Макс. удар холодом:
+Lightning Max Hit:,Макс удар молнией:
+Chaos Max Hit:,Макс. удар хаосом:
+
+"Eff. Maximum Hit Taken:",Эфф. максимум полученного удара:
+"Total Life:",Всего здоровья:
+"%Inc Life from Tree:",%Добавл. здоровье с Дерева:
+"Unreserved Life:",Незарезервированного здоровья:
+Life Recoverable:,Здоровья восстановимо:
+"Life Regen:",Реген здоровья:
+"Life Leech/On Hit Rate:",Скорость похищение здоровья (за удар):
+"Life Leech/Gain per Hit:",Получение/похищение здоровья (за удар):
+"Total Mana:",Всего маны:
+"%Inc Mana from Tree:",%Добавл. маны с Дерева:
+"Unreserved Mana:",Незарезервированной маны:
+"Mana Regen:",Реген маны:
+"Mana Leech/On Hit Rate:",Скорость похищение маны (за удар):
+"Mana Leech/Gain per Hit:",Получение/похищение маны (за удар):
+"Energy Shield:",Энергощит:
+Recoverable ES:,Восстановимый энергощит:
+"%Inc ES from Tree:","%Добавл. энергощита с Дерева:"
+"Energy Shield Regen:",Реген энергощита:
+"ES Leech/On Hit Rate:","Скорость похищение энергощита (за удар)"
+"ES Leech/Gain per Hit:","Получение/похищение энергощита (за удар)"
+"Evasion rating:",Рейтинг уклонения:
+"%Inc Evasion from Tree:",%Добавл. уклонения с Дерева:
+"Evade Chance:",Шанс уклониться:
+"Melee Evade Chance:",Шанс уклонения в ближнем бою:
+"Projectile Evade Chance:",Шанс уклонения от снаряда:
+Armour:,Броня:
+"%Inc Armour from Tree:",%Добавл. брони с Дерева:
+"Phys. Damage Reduction:",Снижение физ. урона:
+"Movement Speed Modifier:",Модификатор скорости передвижения:
+"Block Chance:",Шанс блока:
+"Spell Block Chance:",Шанс блока заклинаний:
+"Attack Dodge Chance:",Шанс избежать атаки:
+"Spell Dodge Chance:",Шанс избежать заклинания:
+"Fire Resistance:",Сопротивление огню:
+"Cold Resistance:",Сопротивление холоду:
+"Lightning Resistance:",Сопротивление молнии:
+"Chaos Resistance:",Сопротивление хаосу:
+"Fire Res. Over Max:",Сопротивление огню(превыш):
+"Cold Res. Over Max:",Сопротивление холоду(превыш):
+"Lightning Res. Over Max:",Сопротивление молнии(превыш):
+"Chaos Res. Over Max:",Сопротивление хаосу(превыш):
+"DPS inc. Poison:","DPS с отравлением:"
+"<No skills added yet>:",<Умения пока не добавлены>
+"{0} points to node","{0} очков до узла"
+"Tip: Press Ctrl+D to disable the display of stat differences.","Совет: нажмите Ctrl+D, чтобы отключить отображение различий в характеристиках."
+"Tip: Press Ctrl+D to enable the display of stat differences.","Совет: нажмите Ctrl+D, чтобы включить отображение различий в характеристиках."
+"Tip: Hold Shift to hide this tooltip.","Совет: удерживайте Shift, чтобы скрыть эту всплывающую подсказку."
+"Tip: To reach this node by a different path, hold Shift, then trace the path and click this node","Совет. Чтобы добраться до этого узла другим путем, удерживайте Shift, затем проследите путь и щелкните этот узел."
+"{0} points gained from unallocating these nodes","{0} очков, полученные от отмены распределения этих узлов"
+"No changes from allocating this node.",Никаких изменений после включения этого узла.
+"No changes from unallocating this node.",Никаких изменений после выключения этого узла.
+"No changes from allocating this node or the nodes leading to it.","Никаких изменений от включения этого узла или узлов, ведущих к нему."
+"No changes from unallocating this node or the nodes leading to it.","Никаких изменений после выключения этого узла или узлов, ведущих к нему."
+
+"Activate this flask.",Активировать этот флакон.
+"Lasts {0} Seconds","Последние {0} секунд"
+"Consumes {0} of {1} Charges on use","Потребляет {0} из {1} зарядов при использовании"
+"Recovers {0} Life over {1} Seconds","Восстанавливает {0} здоровья за {1} секунд"
+"Recovers {0} Mana over {1} Seconds","Восстанавливает {0} маны за {1} секунд"
+
+
+"Remove this gem.",Убрать этот камень.
+"Selecting this gem will give you:",Выбор этого камня даст вам:
+"Are you sure you want to delete all socket groups in this build?","Вы уверены, что хотите удалить все группы сокетов в этой сборке?"
+"Select the item in which this skill is socketed.","Выберите предмет, в котором находится это умение."
+"This will allow the skill to benefit from modifiers on the item that affect socketed gems.","Это позволит навыку получать выгоду от модификаторов предмета, влияющих на камни умений в сокетах."
+"Can support Strength threshold jewels","Может поддерживать самоцветы с порогом силы"
+"Can support Intelligence threshold jewels","Может поддерживать самоцветы с порогом интеллекта"
+"Can support Dexterity threshold jewels","Может поддерживать самоцветы с порогом ловкости"
+"Armour Boots",Брони с ботинок
+"Armour Chest",Брони с тела
+"Armour Gloves",Брони с перчаток
+"Armour Helmet",Брони со шлема
+"Armour Shield",Брони со щита
+"Evasion Boots",Уклонения с ботинок
+"Evasion Chest",Уклонения с тела
+"Evasion Gloves",Уклонения с перчаток
+"Evasion Helmet",Уклонения со шлема
+"Evasion Shield",Уклонения со щита
+"Energy Shield Boots",Энергощита с ботинок
+"Energy Shield Chest",Энергощита с тела
+"Energy Shield Gloves",Энергощита с перчаток
+"Energy Shield Helmet",Энергощита со шлема
+"Energy Shield Shield",Энергощита со щита
+"Elemental 1H Axe",Стихийный одноручный топор
+"Elemental 1H Mace",Стихийный одноручный молот
+"Elemental 1H Sword",Стихийный одноручный меч
+"Elemental 2H Axe",Стихийный двуручный топор
+"Elemental 2H Mace",Стихийный двуручный молот
+"Elemental 2H Sword",Стихийный двуручный меч
+"Elemental Bow",Стихийный лук
+"Elemental Claw",Стихийный коготь
+"Elemental Dagger",Стихийный кинжал
+"Elemental Sceptre",Стихийный скипетр
+"Elemental Staff",Стихийный посох
+"Elemental Wand",Стихийный жезл
+"Physical 1H Axe",Физический одноручный топор
+"Physical 1H Mace",Физический одноручный молот
+"Physical 1H Sword",Физический одноручный меч
+"Physical 2H Axe",Физический двуручный топор
+"Physical 2H Mace",Физический двуручный молот
+"Physical 2H Sword",Физический двуручный меч
+"Physical Bow",Физический лук
+"Physical Claw",Физический коготь
+"Physical Dagger",Физический кинжал
+"Physical Sceptre",Физический скипетр
+"Physical Staff",Физический посох
+"Physical Wand",Физический жезл
+"Spell Dagger",Кинжал с чарами
+"Spell Sceptre",Скипетр с чарами
+"Spell Staff",Посох с чарами
+"Spell Wand",Жезл с чарами
+"Armour/Energy Shield",Броня/энергощит
+Armour/Evasion,Броня/уклонение
+"Armour/Evasion/Energy Shield",Броня/уклонение/энергощит
+"Evasion/Energy Shield",Уклонение/энергощит
+Hybrid,Гибрид
+Utility,Утилита
+
+
+"Life multiplier",Множитель здоровья
+"Armour multiplier",Множитель брони
+Resistances,Сопротивления
+"Base damage",Базовый урон
+"Base attack speed",Базовая скорость атаки
+"{0}% of base Life","{0}% от базового здоровья"
+"Import to a new build","Импортировать в новую сборку"
+"Code is valid","Код действителен"
+
+
+
+
+
+"New Folder...",Новая папка...
+Folder:,Папка:
+"Enter new build name:","Введите название новой сборки:"
+"<No active skills> (Disabled)","<Нет активного умения> (Выключено)"
+"Tip: Right click this socket to go to the items page and choose the jewel for this socket.","Подсказка: щелкните правой кнопкой мыши на это гнездо, чтобы перейти на страницу предметов и выбрать самоцвет для этого гнезда."
+"<No skills added yet>",<Умения пока не добавлены>
+"Variant: Current {0} variants)","Вариант: Текущие {0} вариантов)"
+
+(Disabled),(Отключено)
+"Inactive Gems:",Неактивные камни:
+"(Cannot apply to any of the active skills)",(Нельзя применить ни к одному из активных умений)
+(Unsupported),(Не поддерживается)
+"Note: this group is disabled because it is socketed in the inactive weapon set.","Примечание: эта группа отключена, потому что она находится в неактивном наборе оружия."
+"Equipping this item in Abyssal {0} will give you:","Снаряжение этого предмета в Бездне {0} даст вам:"
+"Removing this item from Abyssal {0} will give you:","Удаление этого предмета из Бездны {0} даст вам:"
+"Abyssal {0}","Бездна {0}"
+"{0}% to Elemental Resistances","{0}% стихийным сопротивлениям"
+Prefix:,Префикс:
+Suffix:,Суффикс:
+"{0} Defualt","{0} по-умолчанию"
+"Enter folder name:",Введите название папки:
+"No update available",Нет доступных обновлений
+"You are running the latest version.",Вы используете последнюю версию.
+"Show support gems:",Показать камни поддержки:
+Awakened,Пробуждённый
+Non-Awakened,Не-пробуждённый
+"Import from Pastebin","Импортировать из Pastebin"
+"Enter Pastebin.com link:","Введите Pastebin.com ссылку:"
+Anomalous,Аномальный
+Divergent,Искаженный
+Phantasmal,Призрачный
+"At {0}% Quality:","При {0}% качества:"
+"Show gem quality variants:",Показать варианты качества камня:
+"Puruna, the Challenger","Пуруна, Претендент"
+"Corruptor Eedaiak",Осквернитель Эедайак
+"Sumter the Twisted",Самтер Искажённый
+"Ancient Architect",Древний зодчий
+"Full DPS:",Полный DPS:
+"Total DPS inc. DoT:","Весь DPS включая постепенный:"
+"Spell Suppression Chance:",Шанс подавить чары:
+Caustic Ground DPS:,DPS от едкой земли:
+Burning Ground DPS:,DPS от горящей земли:
+"Get Currency Conversion Rates",Получить курс обмена валюты
+"Currency Rates are very recent",Курс валют очень свежий
